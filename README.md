@@ -50,3 +50,12 @@ h1 {
 3) line-height - To set the line height.
 4) font-weight - To set the font weight of the text.
 5) font-style - To set any additional styles to the text.
+
+## Color
+
+1) color - To set the color property
+i.e., - color name, rgb(0-255, 0-255, 0-255), #000000
+
+color hex code - https://www.color-hex.com
+HTML color codes - https://www.htmlcolorcodes.com
+
