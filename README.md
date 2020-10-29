@@ -95,3 +95,8 @@ HTML color codes - https://www.htmlcolorcodes.com
 4) margin-bottom - To set the bottom margin of an element.
 5) margin-left - To set the left margin of an element.
 6) margin-right - To set the right margin of an element.
+
+## Floats
+
+1) float - To float an element, left or right.
+2) clear - To clear floats, leftm right, both.
