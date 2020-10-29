@@ -106,3 +106,12 @@ HTML color codes - https://www.htmlcolorcodes.com
 1) block
 2) inline-block
 3) inline
+
+## Position
+
+1) static - Can't position element using top, bottom, left, right.
+2) relative - Can position element using t,b,l,r.
+3) absolute - Can postiion with respect to parent relative positioned element.
+4) fixed - relative to the viewport
+5) sticky - based on scroll position.
+2)
