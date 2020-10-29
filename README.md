@@ -81,3 +81,17 @@ HTML color codes - https://www.htmlcolorcodes.com
 8) border-bottom - To set the bottom border.
 9) border-radius - To set the radius of the border.
 10) border-top-left-radius - To set top left border radius.
+
+## Padding/Margin
+
+1) box-sizing - To set the border box of the HTML element.
+2) padding - Shorthand property to set the padding.
+3) padding-top - To set the top padding of an element.
+4) padding-bottom - To set the bottom padding of an element.
+5) padding-left - To set the left padding of an element.
+6) padding-right - To set the right padding of an element.
+7) margin - Shorthand property to set the margin.
+8) margin-top - To set the top margin of an element.
+4) margin-bottom - To set the bottom margin of an element.
+5) margin-left - To set the left margin of an element.
+6) margin-right - To set the right margin of an element.
